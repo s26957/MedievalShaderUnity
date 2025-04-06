@@ -9,7 +9,8 @@ I. Planned style features
   5. Paper texture [to do]
 
 II. Style features implementation details
-**Outlining obejcts**
+
+**1. Outlining obejcts**
 Outlining uses sobel filter and is implemanted based on tutorial linked in project description.
 
 **Stylized outline**
