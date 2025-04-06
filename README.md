@@ -10,19 +10,19 @@ I. Planned style features
 
 II. Style features implementation details
 
-**1. Outlining obejcts**
-Outlining uses sobel filter and is implemanted based on tutorial linked in project description.
-
-**Stylized outline**
-[to do]
-**Outlining obejcts**
-[to do]
-**Shading with crosshatching**
-[to do]
-**Faded coloring**
-[to do]
-**Paper textures**
-[to do]
+  **1. Outlining obejcts**
+  Outlining uses sobel filter and is implemanted based on tutorial linked in project description.
+  
+  **Stylized outline**
+  [to do]
+  **Outlining obejcts**
+  [to do]
+  **Shading with crosshatching**
+  [to do]
+  **Faded coloring**
+  [to do]
+  **Paper textures**
+  [to do]
 
 III. Resources
 Project inspirated by - https://youtu.be/jlKNOirh66E?si=nnkuqalDgLdFdh7p
